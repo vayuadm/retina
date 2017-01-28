@@ -1,3 +1,4 @@
-[![CircleCI](https://circleci.com/gh/HPSoftware/retina.svg?style=shield&circle-token=2883b812fdf835f28f7a2abb3d1cdbd53a51f883)](https://circleci.com/gh/HPSoftware/retina)
+[![CircleCI](https://circleci.com/gh/vayuadm/retina.svg?style=shield)](https://circleci.com/gh/vayuadm/retina)
+
 # Яetina
 ALM trello integration service
